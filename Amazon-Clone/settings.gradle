@@ -1,0 +1,9 @@
+rootProject.name = 'Amazon-Clone'
+include 'auth-service'
+include 'user-service'
+include 'ConfigServer'
+include 'ConfigServerGit'
+include 'ApiGatewayService'
+include 'product-service'
+include 'addToCart-service'
+
